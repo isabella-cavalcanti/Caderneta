@@ -2,7 +2,7 @@
 
 App web de finanças pessoais que eu criei para controlar os meus gastos, e que hoje também é usado por parentes e amigos.
 
-🔗 **Acesse:** https://isabella-cavalcanti.github.io/caderneta/
+🔗 **Acesse:** https://isabella-cavalcanti.github.io/Caderneta/
 
 ## Por que eu fiz
 Eu queria controlar os meus gastos, mas a planilha de Excel me parecia ultrapassada: nela eu não conseguia simplesmente jogar a fatura do cartão e ter tudo calculado. Então criei a Caderneta e fiz **automações no celular** que mandam os gastos direto para o site.
